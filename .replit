@@ -1,2 +1,7 @@
-language = "python3"
-run = "if python -c 'import pytest'; then cd src; python3 exercise.py; else pip install pytest; cd src; python exercise.py; fi"
+def dinosaur():
+#thisisprogramnumber3
+  print("There once")
+  print("was a")
+  print("dinosaur")
+if _name_=='_dinosaur_':
+  dinosaur()
